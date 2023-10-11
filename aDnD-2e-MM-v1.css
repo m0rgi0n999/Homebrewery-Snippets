@@ -101,7 +101,7 @@ Note, there are nested css comments here, and if included in the brew, the space
   	break-inside:unset;
   	page-break-inside:unset;
   	padding-bottom:.7em;
-	font-size: small;
+	font-size: x-small;
   }
   
   .phb p strong:first-child {
