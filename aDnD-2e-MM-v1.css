@@ -100,8 +100,7 @@ Note, there are nested css comments here, and if included in the brew, the space
   	-webkit-column-break-inside:unset;
   	break-inside:unset;
   	page-break-inside:unset;
-  	padding-bottom:.7em;
-	font-size: x-small;
+  	padding-bottom:.6em;
   }
   
   .phb p strong:first-child {
